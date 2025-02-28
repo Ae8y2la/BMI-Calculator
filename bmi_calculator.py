@@ -76,3 +76,16 @@ if st.button("Calculate BMI"):
             st.error("You're obese. Consult a health expert.")
     else:
         st.error("Please provide valid height and weight.")
+        
+        # Securing line (copyright notice)
+st.markdown(
+    """
+    <div style="text-align: center; margin-top: 50px; color: #8F6246; font-size: 14px;">
+        © 2025 Aeyla Naseer. This code is protected under copyright law. Unauthorized copying is prohibited.
+    </div>
+    """,
+    unsafe_allow_html=True
+)
+
+# Print statement (optional, for terminal/logging purposes)
+print("© 2025 Aeyla Naseer. This code is protected under copyright law. Unauthorized copying is prohibited.")
