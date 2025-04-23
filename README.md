@@ -15,4 +15,4 @@ understand your weight category, and set health goals!!
 
 💮💮
 
-**REACH ME OUT📧:"aeylanaseer@gmail.com"**
+**REACH ME OUT ON DISCORD 👾:"user6790.h"**
